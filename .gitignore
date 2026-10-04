@@ -12,3 +12,24 @@ __pycache__/
 .ipynb_checkpoints/
 runs/
 eval_out/
+.venv/
+
+# Python/tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local working copies. The canonical deliverable is under submissions/.
+/code/
+/curves/
+/predictions/
+/eda/
+/analysis_figures/
+/inference_out/
+/LAB2_README.md
+/SUBMISSION_CHECKLIST.md
+/report.md
+/results.xlsx
+/requirements.txt
